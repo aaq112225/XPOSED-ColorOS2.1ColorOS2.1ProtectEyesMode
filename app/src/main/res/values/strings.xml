@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ColorOS2.1ProtectEyesMode</string>
+    <string name="DES">A XPOSED-MOD to remove ColorOS2.1 ProtectEyes mode restriction.</string>
+</resources>
